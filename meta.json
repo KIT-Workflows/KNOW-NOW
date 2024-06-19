@@ -2,8 +2,8 @@
     "workflow_environment":"SimStack",
     "title": "KNOW-NOW",
     "authors": [
-        "Celso R. C. Rego celsorego@kit.edu", 
-        "Björn Mieller bjoern.mieller@bam.de"
+        "Celso R. C. Rego <celsorego@kit.edu>", 
+        "Björn Mieller <bjoern.mieller@bam.de>"
     ],
     "description": "These SimStack Wanos can be used to perform a pressing simulation with the DEM solver LIGGGHTS.",
     "version": "0.0.1",
