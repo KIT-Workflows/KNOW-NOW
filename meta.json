@@ -6,7 +6,7 @@
         "Björn Mieller <bjoern.mieller@bam.de>"
     ],
     "description": "These SimStack Wanos can be used to perform a pressing simulation with the DEM solver LIGGGHTS.",
-    "logo": "https://github.com/KIT-Workflows/KNOW-NOW/blob/main/LIGGGHTS.png",
+    "logo": "LIGGGHTS.png",
     "release": "v.0.0.1",
     "keywords": [
         "LIGGGHTS",
