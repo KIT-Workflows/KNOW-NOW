@@ -1,0 +1,19 @@
+{
+    "workflow_environment":"SimStack",
+    "title": "KNOW-NOW",
+    "description": "These SimStack Wanos can be used to perform a pressing simulation with the DEM solver LIGGGHTS.",
+    "authors": [
+        "Celso R. C. Rego", "celsorego@kit.edu", "Bjoern Mieller", "bjoern.mieller@bam.de"
+    ],
+    "version": "0.0.1",
+    "logo": "DFT-VASP.png",
+    "release": {
+        "latest_release_date": "e.g., 2021-06-01",
+        "latest_release_tag": "e.g., 0.0.1"
+    },
+    
+    "keywords": [
+        "dft",
+        "VASP"
+    ]
+}
